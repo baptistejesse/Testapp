@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Avenir LT Medium';
+   src: url('fonts/Avenir LT 65 Medium_0.ttf') format('truetype');
+}
+
+@font-face {
+   font-family: 'Avenir LT Heavy';
+   src: url('fonts/Avenir LT 85 Heavy_0.ttf') format('truetype');
+}
+
+
+
+html,
+body {
+  font-family: 'Avenir LT Medium', 'Helvetica', sans-serif;
+	padding: 10px;;
+	margin: 0;
+}
+
+.bootom{
+  
+margin-bottom:10px;  
+  
+}
+
+
+header {
+ 
+	width: 500px;
+	height: 150px;
+	top: 50%;
+	left: 50%;
+	margin-top: -125px;
+	margin-left: -250px;
+	text-align: center;
+}
+
+header h3 {
+  font-family: 'Avenir LT Medium', 'Helvetica', sans-serif;
+	font-weight: 100;
+	margin: 0;
+	padding: 0;
+}
+
+section{
+  
+  margin: 0 auto;
+  
+}

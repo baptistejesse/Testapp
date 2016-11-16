@@ -124,7 +124,7 @@ export class Speecher extends React.Component{
                 <Form className="login-form">
                        <FormItem>
                         
-                           <Input addonBefore={<Icon type="user" />} placeholder="Email" />
+                           <Input addonBefore={<Icon type="user" />} placeholder="Your Email" />
                       
                        </FormItem>
                        <FormItem>
